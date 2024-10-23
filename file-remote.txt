@@ -1,1 +1,2 @@
 Makes commits in clone repository!
+Have a nice day :)
