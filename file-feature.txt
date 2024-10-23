@@ -1,0 +1,3 @@
+PRICE
+Tea - 1$
+Coffee - 2$
